@@ -1,0 +1,11 @@
+com/vinicius/meuprojetomodule/MeuProjetoModule.class
+com/vinicius/meuprojetomodule/config/MeuProjetoStudioConfig.class
+com/vinicius/meuprojetomodule/form/MeuProjetoForm$Profissoes.class
+com/vinicius/meuprojetomodule/spring/PersistenceConfiguration.class
+com/vinicius/meuprojetomodule/flow/MeuProjetoFlow.class
+com/vinicius/meuprojetomodule/form/MeuProjetoPackage.class
+com/vinicius/meuprojetomodule/config/MeuProjetoModuleInitializer.class
+com/vinicius/meuprojetomodule/box/MeuProjetoCaixaPendencia.class
+com/vinicius/meuprojetomodule/flow/MeuProjetoFlow$MeuProjetoTasks.class
+com/vinicius/meuprojetomodule/form/MeuProjetoForm.class
+com/vinicius/meuprojetomodule/box/MeuProjetoCaixaPendencia$CumprirDiligenciaAction.class
